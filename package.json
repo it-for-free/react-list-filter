@@ -1,0 +1,30 @@
+{
+  "name": "react-list-filter",
+  "version": "1.0.0",
+  "description": "React list filter component with pagination support",
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "create-react-app": "^4.0.2",
+    "dot-object": "^2.1.4",
+    "immer": "^8.0.1",
+    "js-wrapper-lib": "^2.0.6",
+    "query-string": "^6.14.0",
+    "react-redux": "^7.2.2",
+    "redux": "^4.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/it-for-free/react-list-filter.git"
+  },
+  "author": "it-for-free",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/it-for-free/react-list-filter/issues"
+  },
+  "homepage": "https://github.com/it-for-free/react-list-filter#readme"
+}
